@@ -62,7 +62,7 @@ Fitur:
 
 ## Cara Menjalankan Project
 
-#### Cara menjalankan project ini adalah dengan menginstall npm terlebih dahulu agar dapat menjalankan run development reactnya nanti/ build semua library dapat developmentnya
+#### Cara menjalankan project ini adalah dengan menginstall npm terlebih dahulu agar dapat menjalankan run development reactnya nanti/ build semua library dalam developmentnya
 
 ```bash
 npm install
